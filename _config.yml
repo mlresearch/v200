@@ -1,0 +1,82 @@
+---
+booktitle: Proceedings of the 17th Machine Learning in Computational Biology meeting
+conference_number: '17'
+shortname: MLCB
+start: 2022-11-21
+end: 2022-11-22
+published: 2022-12-19
+year: '2022'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MLCB2022
+month: 0
+cycles: false
+bibtex_editor: Knowles, David A and Mostafavi, Sara and Lee, Su-In
+editor:
+- given: David A
+  family: Knowles
+- given: Sara
+  family: Mostafavi
+- given: Su-In
+  family: Lee
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 17th Machine Learning in Computational Biology meeting
+    Held in Online on 21-22 November 2022
+
+  Published as Volume 200 by the Proceedings of Machine Learning Research on 19 December 2022.
+
+  Volume Edited by:
+    David A Knowles
+    Sara Mostafavi
+    Su-In Lee
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 21--22 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v200"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v200
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v200
+volume: '200'
+email: ''
+conference:
+  name: Machine Learning in Computational Biology
+  url: https://mlcb.github.io/
+  location: Online
+  dates:
+  - 2022-11-21
+  - 2022-11-22
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v200/mlcb2022.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v200/mlcb2022.bib
