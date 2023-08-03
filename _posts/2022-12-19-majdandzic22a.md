@@ -40,9 +40,9 @@ author:
   family: Tang
 - given: Shushan
   family: Toneyan
-- given: Ethan L
+- given: Ethan L.
   family: Labelson
-- given: Rohit K
+- given: Rohit K.
   family: Tripathy
 - given: Peter K.
   family: Koo
